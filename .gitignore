@@ -1,0 +1,9 @@
+.env
+.vscode
+.idea
+
+venv
+database.db
+database.db-shm
+database.db-wal
+__pycache__/
